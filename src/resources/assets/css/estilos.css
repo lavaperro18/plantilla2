@@ -1,0 +1,197 @@
+/*MENU*/
+.color-menu {
+    background: #3A5C86 !important;
+}
+.btn-block{
+    background: #3A5C86 !important;
+}
+.active {
+ background: none !important;
+}
+.active p{
+    color: #A3B1D6 !important;
+   }
+   .active i{
+    color: #A3B1D6 !important;
+   }
+.icono {
+    color: #3A5C86 !important;
+}
+.color-menu li {
+    color: #141616 !important;
+}
+.nav-link {
+    color: #fff !important;
+}
+.nav-link:hover {
+    color: #A3B1D6 !important;
+}
+
+.navbar {
+    border: none;
+
+}
+
+/*Boton cerrar secion*/
+.btn-default {
+    color: white !important; 
+}
+.user-footer{
+     background-color: #3A5C86 !important;
+     border: none !important;
+    
+}
+.dropdown-menu {
+    border-radius: 50px;
+}
+
+
+/*centrar logo de cantve en el menu*/
+.brand-link {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+/*container*/
+.content-wrapper {
+    background: #f1f1f1;
+    border-radius: 5px;
+}
+
+
+/*iconos generales*/
+.icono {
+    color: #E9A18B !important;
+}
+
+
+/*colores generales*/
+.btn-primary {
+    background-color: #395c86 !important;
+    border: none !important;
+}
+.btn-primary:hover {
+    background-color: #2B4565 !important;
+}
+.text-primary {
+   color: #395c86 !important;
+   
+}
+.text-primary {
+  color: #2B4565 !important;
+}
+
+.bg-primary {
+    background-color: #395c86 !important;
+}
+
+
+
+
+.btn-info {
+    background-color: #a3b1d6 !important;
+    border: none !important;
+}
+.btn-info:hover {
+    background-color: #7A85A1 !important;
+}
+
+.btn-success {
+    background-color: #66b078 !important;
+    border: none !important;
+}
+.btn-success:hover {
+    background-color: #4D845A !important;
+}
+
+.btn-warning {
+    background-color: #e3a040 !important;
+    border: none !important;
+}
+.btn-warning:hover {
+    background-color: #AA7830 !important;
+}
+
+.btn-danger {
+    background-color: #f44336 !important;
+    border: none !important;
+}
+.btn-danger:hover {
+    background-color: #B73229 !important;
+}
+
+/*color de las card*/
+.card .card-header{
+    background-color: transparent !important;
+}
+
+/*cambiar el color de los botones de la data table*/
+/* Cambiar el color del contenedor del botón de la página actual */
+#example_wrapper .dataTables_paginate .paginate_button.page-item.active .page-link {
+    color: white !important;
+    background-color: #E9A18B !important;
+    border: 1px solid #E9A18B !important;
+}
+/* Cambiar el color del número dentro del botón cuando no está activo */
+#example_wrapper .dataTables_paginate .paginate_button.page-item .page-link {
+    color: #af7968 !important;
+}
+
+/*Titulos*/
+.titulo {
+   color: #3A5C86 !important;
+}
+.icono-clap {
+    color: #E9A18B;
+}
+h5 {
+    color: #2B4565 ;
+}
+h6 {
+    color: #2B4565 ;
+}
+
+
+
+/*vista login*/
+.login-logo{
+    margin-top: 16px;
+}
+.login-box {
+    background: #3A5C86 !important;
+}
+.icono-fm-login {
+    color: #3A5C86 !important;
+}
+.borde {
+    border: none !important;
+    margin-top: 15px !important;
+}
+ label{
+    color: #3A5C86 !important;
+ }
+.login-footer {
+   
+    color: #3A5C86;
+    font-size: 12px; /* Ajusta el tamaño de la fuente según tus necesidades */
+    padding: 3px; /* Ajusta el espaciado interno según tus necesidades */
+    border: none;
+}
+
+
+/*footer*/
+.main-footer {
+    background-color: #f1f1f1;
+    color: #3A5C86;
+    font-size: 12px; /* Ajusta el tamaño de la fuente según tus necesidades */
+    padding: 3px; /* Ajusta el espaciado interno según tus necesidades */
+    border: none;
+}
+
+.f-t {
+    margin-top: 15px;
+}
